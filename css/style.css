@@ -1,0 +1,156 @@
+body{
+
+    background-color: #fafafa;
+
+
+}
+h1{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+
+}
+#content{
+
+    text-align: center;
+    padding: 1% 22%;
+
+
+}
+
+.login-card{
+
+    
+    margin-top: 2rem;
+    
+
+
+}
+
+
+.card-body-style{
+
+    padding: 4rem;
+
+
+}
+.form-username{
+
+    margin-top:1.5rem;
+    margin-bottom: 0.5rem;
+    
+}
+.form-password{
+
+    margin-bottom: 1rem;
+
+}
+.username-text{
+
+    width: 100%;
+    background-color: #fafafa;
+    padding: 0.5rem;
+    border: 0;
+    font-size: 12px;
+
+}
+.user-password{
+
+    width: 100%;
+    background-color: #fafafa;
+    padding: 0.5rem;
+    border: 0;
+    font-size: 12px;
+
+}
+
+
+
+.button-image{
+
+    height: 40px;
+
+
+}
+.form-btn{
+
+    margin-bottom: 1rem;
+    opacity: 0.5;
+
+
+}
+.card-facebook i{
+
+    margin-bottom: 1rem;
+    font-size: 18px;
+
+}
+.facebook-icon{
+
+    
+    color: rgba(var(--d69,0,149,246),1);;
+    margin: 1rem;
+
+}
+.account-card{
+
+    margin-top: 1rem;
+
+}
+.download-card{
+
+    margin-top: 1rem;
+    background-color: #fafafa;
+    border-style: none;
+}
+
+#footer{
+
+    background-color: #fafafa;
+
+
+}
+.footer-list{
+
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    list-style: none;
+    font-size: 12px;
+    color: rgba(var(--f52,142,142,142),1);
+    font-weight:400 ;
+
+}
+.footer-list-elements{
+
+    margin: 1rem
+    
+
+}
+.copyright{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+
+
+}
+.copyright-el{
+
+    font-size: 12px;
+    color: rgba(var(--f52,142,142,142),1);
+    font-weight:400 ;
+    margin-bottom: 5rem;
+    margin-right: 2rem;
+
+
+}
+.ya-da{
+
+    color: rgba(var(--f52,142,142,142),1);
+    font-weight:400 ;
+}
